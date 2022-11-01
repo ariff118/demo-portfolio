@@ -1,1 +1,10 @@
-
+title: name
+logo: https://scmathuitmkedah.github.io/ScMathUiTMKedah/images/amirah.jpg
+description: |
+  Senior Lecturer  
+  Department of Mathematical Sciences  
+  UiTM Kedah Branch Campus  
+  amirah017@uitm.edu.my    
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
